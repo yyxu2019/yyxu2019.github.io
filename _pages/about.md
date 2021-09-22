@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor with College of Computer and Information at Hohai University, China. I received B.Eng. and M.Eng. degrees from Beijing Jiaotong University, Beijing, China, in 2005 and 2007, respectively, and Ph.D. degree from Nanyang Technological University, Singapore, in 2014. I have published more than 20 papers on image/video coding, image/video communication and resource allocation, including IEEE Trans. on Circuits and Systems for Video Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on on Mobile Computing, Signal Processing: Image Communication. My research interests include image/video coding, image/video communication, immersive videos, visual perception and applications, etc.
+I am currently an associate professor with College of Computer and Information at Hohai University, China. I received B.Eng. and M.Eng. degrees from Beijing Jiaotong University, Beijing, China, in 2005 and 2007, respectively, and Ph.D. degree from Nanyang Technological University, Singapore, in 2014. I have published more than 20 papers on image/video coding, image/video communication and resource allocation, including IEEE Trans. on Circuits and Systems for Video Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on on Mobile Computing, Signal Processing: Image Communication. 
+
+My research interests include image/video coding, image/video communication, immersive videos, visual perception and applications, etc.
 
 Pulication
 ======
