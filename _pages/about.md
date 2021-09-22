@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently an associate professor with College of Computer and Information at Hohai University, China. I received B.Eng. and M.Eng. degrees from Beijing Jiaotong University, Beijing, China, in 2005 and 2007, respectively, and Ph.D. degree from Nanyang Technological University, Singapore, in 2014. I have published more than 20 papers on image/video coding, image/video communication and resource allocation, including IEEE Trans. on Circuits and Systems for Video Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on on Mobile Computing, Signal Processing: Image Communication. My research interests include image/video coding, image/video communication, immersive videos, visual perception and applications, etc.
 
-A data-driven personal website
+Pulication
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Selected Journal papers**
+1.	Kun Zhu, Lujiu Li, Yuanyuan Xu*, Tong Zhang, Lu Zhou, "Multi-Connection Based Scalable Video Streaming in UDNs: A Multi-Agent Multi-Armed Bandit Approach," IEEE Transactions on Wireless Communications, Early access, 2021.
+1.	Kun Zhu, Yuanyuan Xu*, Jun Qian, and Dusit Niyato, "Revenue Optimal Auction For Resource Allocation in Wireless Virtualization: A Deep Learning Approach," IEEE Transactions on Mobile Computing, Sept. 2020. 
+1.	Yuanyuan Xu, “Predictive Side Decoding for Human-Centered Multiple Description Image Coding”, EURASIP Journal on Wireless Communications and Networking, no. 93, May 2020.
+1.	Yuanyuan Xu, Kun Zhu*, “Cost Sensitive Learning Based HEVC Screen Content Intra Coding for Mobile Devices”, Mobile Networks and Applications, vol. 25, pp.2471-2481, June 2020.
+1.	Yuanyuan Xu, Kun Zhu*, and Shan Li, “Hierarchical Combinatorial Auction in Computing Resource Allocation for Mobile Blockchain”, Wireless Communications and Mobile Computing, vol. 2020, Aug 2020.
+1.	Yuanyuan Xu*, Shan Li and Yixuan Zhang, “Privacy-Aware Service Subscription in People-Centric Sensing: A Combinatorial Auction Approach”, Computers, Materials & Continua, vol. 61, no.1, pp.129-139, Oct. 2019.
+1.	Xiang Zhang*, Ce Zhu, Honggang Wu, Zhi Liu, and Yuangyuan Xu, “An imbalance compensation framework for background subtraction,” IEEE Transactions on Multimedia, vol. 19, no. 11. pp. 2425-2438, Nov. 2017. 
+1.	Yuanyuan Xu*, Ce Zhu, Lu Yu, “Multipath Routing of Multiple Description Coded Images in Wireless Networks,” Journal of Computer Science and Technology, vol.29, issue 4, pp.576-588, July 2014.
+1.	Yuanyuan Xu, Ce Zhu*, “End-to-End Rate-Distortion Optimized Description Generation for H.264 Multiple Description Video Coding,” IEEE Trans. on Circuits and Systems for Video Technology, vol.23, no.9, pp.1523-1536, Sept. 2013.
+1.	Yuanyuan Xu, Ce Zhu*, “Multi-description Multipath Video Streaming in Wireless Ad Hoc Networks”, Signal Processing: Image Communication, vol. 27, no. 8, pp. 836-848, 2012.
+1.	Yuanyuan Xu, Ce Zhu*, Wenjun Zeng, Xuejun Li, “Multiple Description Coded Video Streaming in Peer-to-peer Networks”, Signal Processing: Image Communication, vol. 27, no. 5, pp. 419–429, 2012.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
