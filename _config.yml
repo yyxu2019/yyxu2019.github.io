@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuanyuan Xu"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Hohai University"
-  location         : "Nanjing, China"
-  employer         :
+  bio              : "Associate Professor"
+  location         : "4511 QinXue Building, 8 Focheng Road, Nanjing, China"
+  employer         : "College of Computer and Information, Hohai University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yuanyuan_xu@hhu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
