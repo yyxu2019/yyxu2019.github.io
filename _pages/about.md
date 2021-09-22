@@ -29,6 +29,12 @@ Pulication
 1.	Yuanyuan Xu*, and Shan Li, “Virtualization of 5G Cellular Networks: A Combinatorial Share-Averse Auction Approach”, in Lecture Notes in Computer Science (LNCS), Proc. of International Conference on Artificial Intelligence and Security (ICAIS), pp. 13–24, July 26-28, 2019, New York, USA.
 1.	Yuanyuan Xu, Ce Zhu*, “Multiple Description Coded Video Streaming with Multipath Transport in Wireless Ad Hoc Networks”, in Proc. of 7th International ICST Conference on Mobile Multimedia Communications (MobiMedia 2011), September 5-7, 2011, Cagliari, Italy. (Best Student Paper Award)
 
+Teaching
+======
+- 0601015, Introduction to Multimedia
+- 0601096, Virtual Reality
+- 2015JC25, Methods of Programming
+
 Contact
 ======
 If you're interested to join my group, please contact me at yuanyuan_xu@hhu.edu.cn
