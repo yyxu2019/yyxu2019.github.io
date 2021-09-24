@@ -10,11 +10,12 @@ location: "Nanjing, China"
 
 The course includes the basic knowledge and theory about multimedia, common multimedia data compression algorithms, multimedia transmission and other related techniques.
 
-#Heading 1
-#======
+<!--Heading 1
+======
 
-#Heading 2
-#======
+Heading 2
+======
 
-#Heading 3
-#======
+Heading 3
+======
+-->
