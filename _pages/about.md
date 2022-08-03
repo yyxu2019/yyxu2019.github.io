@@ -32,6 +32,7 @@ Pulication
 1.	Yuanyuan Xu, Ce Zhu*, “End-to-End Rate-Distortion Optimized Description Generation for H.264 Multiple Description Video Coding,” _IEEE Trans. on Circuits and Systems for Video Technology_, vol.23, no.9, pp.1523-1536, Sept. 2013.
 
 **Selected Conference papers**
+1.  Shuwen Cai(本科生), Yuanyuan Xu*, "A Multi-objective Optimization Approach to Resource Allocation for Edge-Based Digital Twin", in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, Dec. 4-8 2022, Rio de Janeiro, Brazil.
 1.	Yuanyuan Xu*, Taoyu Yang, Zengjie Tan, and Haolun Lan, “Fov-based Coding Optimization for 360-degree Virtual Reality Videos”, in _Proc. of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, May 22-27, 2022. Singapore. (CCF-B)
 2.	Yuanyuan Xu*, Chen Dai, and Lujiu Li, “Multi-connection Based Scalable Video Streaming in UDNs: A Multi-armed Bandit Approach”, in _Lecture Notes in Computer Science, Proc. of  Wireless Algorithms, Systems, and Applications (WASA)_, vol 12938, June 25-27, 2021, Nanjing, China. 
 3.	Zengjie Tan, Yuanyuan Xu*, “Deep Reinforcement Learning Based Collaborative Mobile Edge Caching for Omnidirectional Video Streaming”, in _Lecture Notes in Computer Science, Proc. of  Wireless Algorithms, Systems, and Applications (WASA)_, vol 12937, June 25-27, 2021, Nanjing, China. 
