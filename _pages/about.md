@@ -39,7 +39,7 @@ Pulication
 3.	Zengjie Tan, Yuanyuan Xu*, “Deep Reinforcement Learning Based Collaborative Mobile Edge Caching for Omnidirectional Video Streaming”, in _Lecture Notes in Computer Science, Proc. of  Wireless Algorithms, Systems, and Applications (WASA)_, vol 12937, June 25-27, 2021, Nanjing, China. 
 4.	Yuanyuan Xu*, Quanping Zeng, “Reinforcement Learning for HEVC Screen Content Intra Coding on Heterogeneous Mobile Devices”, in _Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Proc. of EAI International Conference on Machine Learning and Intelligent Communications (MLICOM)_, pp. 759-768, Aug. 24-25, 2019, Nanjing, China.
 5.	Yuanyuan Xu*, and Shan Li, “Virtualization of 5G Cellular Networks: A Combinatorial Share-Averse Auction Approach”, in _Lecture Notes in Computer Science (LNCS), Proc. of International Conference on Artificial Intelligence and Security (ICAIS)_, pp. 13–24, July 26-28, 2019, New York, USA.
-6.	Yuanyuan Xu, Ce Zhu*, “Multiple Description Coded Video Streaming with Multipath Transport in Wireless Ad Hoc Networks”, in _Proc. of 7th International ICST Conference on Mobile Multimedia Communications (MobiMedia 2011)_, September 5-7, 2011, Cagliari, Italy. (**Best Student Paper Award**)
+6.	Yuanyuan Xu, Ce Zhu*, “Multiple Description Coded Video Streaming with Multipath Transport in Wireless Ad Hoc Networks”, in _Proc. of 7th International ICST Conference on Mobile Multimedia Communications (MobiMedia 2011)_, September 5-7, 2011, Cagliari, Italy. (Best Student Paper Award)
 
 Teaching
 ======
