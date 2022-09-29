@@ -4,7 +4,7 @@
 
 论文发表
 ======
-**Selected Journal papers**
+**部分期刊论文**
 1.	Taoyu Yang, Zengjie Tan, Yuanyuan Xu*, and Shuwen Cai, “Collaborative Edge Caching and Transcoding for 360-Degree Video Streaming Based on Deep Reinforcement Learning”, _IEEE Internet of Things Journal_, **Accepted**. (JCR Tier 1)
 1.	Kun Zhu, Lujiu Li, Yuanyuan Xu*, Tong Zhang, Lu Zhou, "Multi-Connection Based Scalable Video Streaming in UDNs: A Multi-Agent Multi-Armed Bandit Approach," _IEEE Trans. on Wireless Communications_, vol. 21, no. 2, pp. 1156-1169, Feb. 2022. (CCF-B)
 1.	Kun Zhu, Yuanyuan Xu*, Jun Qian, and Dusit Niyato, "Revenue Optimal Auction For Resource Allocation in Wireless Virtualization: A Deep Learning Approach," _IEEE Trans. on Mobile Computing_, vol. 21, no. 4, pp. 1374-1387, 1 April 2022. (CCF-A)
@@ -15,7 +15,7 @@
 1.	Yuanyuan Xu*, Ce Zhu, Lu Yu, “Multipath Routing of Multiple Description Coded Images in Wireless Networks,” _Journal of Computer Science and Technology_, vol.29, issue 4, pp.576-588, July 2014.
 1.	Yuanyuan Xu, Ce Zhu*, “End-to-End Rate-Distortion Optimized Description Generation for H.264 Multiple Description Video Coding,” _IEEE Trans. on Circuits and Systems for Video Technology_, vol.23, no.9, pp.1523-1536, Sept. 2013. (CCF-B)
 
-**Selected Conference papers**
+**部分会议论文**
 1. Yuanyuan Xu*, Haolun Lan(本科生), “Image Compression for Machines Using Boundary-Enhanced Saliency”, in Proc. of ACM Multimedia Asia (MMAsia 2022), Dec. 13-16, 2022, Tokyo, Japan. (**Accepted**)
 2. Haoxuan Xiong, Yuanyuan Xu*, “Saliency-Guided Learned Image Compression for Object Detection”, in _Proc. of 29th International Conference on Neural Information Processing (ICONIP 2022)_, Nov. 22-26, 2022, New Delhi, India. (**Accepted**)
 3.  Shuwen Cai (本科生), Yuanyuan Xu*, "A Multi-objective Optimization Approach to Resource Allocation for Edge-Based Digital Twin", in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, Dec. 4-8, 2022, Rio de Janeiro, Brazil. (**Accepted**)
@@ -31,4 +31,12 @@
 - 0601015, 多媒体概论
 - 0601096, 虚拟现实
 - 2015JC25, 程序设计方法
+
+研究生
+======
+22级
+21级
+20级
+19级
+18级
 
