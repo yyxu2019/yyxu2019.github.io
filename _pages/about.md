@@ -47,7 +47,7 @@ Teaching
 ======
 - 0601015, Introduction to Multimedia
 - 0601096, Virtual Reality
-- 2015JC25, Methods of Programming
+- 2022LM330001, Methods of Programming
 
 Contact
 ======
