@@ -33,7 +33,7 @@ Pulication
 1.	Yuanyuan Xu, Ce Zhu*, “End-to-End Rate-Distortion Optimized Description Generation for H.264 Multiple Description Video Coding,” _IEEE Trans. on Circuits and Systems for Video Technology_, vol.23, no.9, pp.1523-1536, Sept. 2013. (CCF-B)
 
 **Selected Conference papers**
-1.  Xi Gu, Yuanyuan Xu*, Kun Zhu, "Semantic Importance-Based Deep Image Compression Using A Generative Approach", in _Proc. of 30th International Conference on Multimedia Modeling(MMM2024)_, Jan. 29-Feb.2, 2024, Amsterdam, The Netherlands. 
+1.  Xi Gu, Yuanyuan Xu*, Kun Zhu, "Semantic Importance-Based Deep Image Compression Using A Generative Approach", in _Proc. of 30th International Conference on Multimedia Modeling(MMM2024)_, Jan. 29-Feb.2, 2024, Amsterdam, Netherlands. 
 1.  Hui Chen, Yuanyuan Xu*, “Video Coding for Machines Based on Motion Assisted Saliency Analysis”, in _Proc. of International Conference on Image and Graphics (ICIG 2023)_,  Sept. 22-24. 2023, Nanjing, China.
 1.  Yuanyuan Xu*, Haolun Lan(本科生), “Image Compression for Machines Using Boundary-Enhanced Saliency”, in _Proc. of ACM Multimedia Asia (MMAsia 2022)_, Dec. 13-16, 2022, Tokyo, Japan.
 1. Haoxuan Xiong, Yuanyuan Xu*, “Saliency-Guided Learned Image Compression for Object Detection”, in _Proc. of 29th International Conference on Neural Information Processing (ICONIP 2022)_, Nov. 22-26, 2022, New Delhi, India.
