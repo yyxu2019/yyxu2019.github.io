@@ -14,7 +14,7 @@ redirect_from:
 <img src='/images/160px-Animhorse.gif' width="256">
 -->
 
-I am currently an associate professor with College of Computer and Information at Hohai University, China. I received B.Eng. and M.Eng. degrees from Beijing Jiaotong University, Beijing, China, in 2005 and 2007, respectively, and Ph.D. degree from Nanyang Technological University, Singapore, in 2014. I have published more than 20 papers on image/video coding, image/video communication and resource allocation, including IEEE Trans. on Circuits and Systems for Video Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on on Mobile Computing, Signal Processing: Image Communication. 
+I am currently an associate professor with College of Computer and Software at Hohai University, China. I received B.Eng. and M.Eng. degrees from Beijing Jiaotong University, Beijing, China, in 2005 and 2007, respectively, and Ph.D. degree from Nanyang Technological University, Singapore, in 2014. I have published more than 30 papers on image/video coding, image/video communication and resource allocation, including IEEE Trans. on Circuits and Systems for Video Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on on Mobile Computing, Signal Processing: Image Communication. 
 
 My research interests include **image/video coding, image/video communication, immersive videos, visual perception and applications**, etc.
 
@@ -45,6 +45,7 @@ Pulication
 1.	Yuanyuan Xu*, and Shan Li, “Virtualization of 5G Cellular Networks: A Combinatorial Share-Averse Auction Approach”, in _Lecture Notes in Computer Science (LNCS), Proc. of International Conference on Artificial Intelligence and Security (ICAIS)_, pp. 13–24, July 26-28, 2019, New York, USA.
 1.	Yuanyuan Xu, Ce Zhu*, “Multiple Description Coded Video Streaming with Multipath Transport in Wireless Ad Hoc Networks”, in _Proc. of 7th International ICST Conference on Mobile Multimedia Communications (MobiMedia 2011)_, September 5-7, 2011, Cagliari, Italy. (Best Student Paper Award)
 
+<!--
 Graduate Students
 ======
 Year 2018: 张婕（南瑞、联合指导）  
@@ -53,6 +54,7 @@ Year 2020: 熊皓萱（上海紫光展锐）、朱雷（中兴）
 Year 2021: 陈慧（咪咕视频）、顾茜（上海途虎养车）、刘刻  
 Year 2022: 蔡舒雯、郑沁怡、吴成伟  
 Year 2023: 戴星宇、王远池、徐凤  
+-->
 
 Teaching
 ======
